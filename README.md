@@ -132,3 +132,18 @@ def detect_handwriting(image_path):
 image_path = 'handwriting.jpg'
 detect_handwriting(image_path)
 ```
+## OUTPUT :
+
+### I)Perform ROI from an image:
+
+![Screenshot 2025-05-28 132248](https://github.com/user-attachments/assets/24c488bc-efbd-4654-95e1-afda4ec3549c)
+
+![Screenshot 2025-05-28 132256](https://github.com/user-attachments/assets/9b196cce-c25b-4796-95de-f8247f866196)
+
+### II)Perform handwritting detection in an image:
+
+![Screenshot 2025-05-28 132523](https://github.com/user-attachments/assets/d9e0aef1-a4bc-4ef7-91ab-91fc7da169fd)
+
+### III)Perform object detection with label in an image:
+
+![Screenshot 2025-05-28 132958](https://github.com/user-attachments/assets/75bb8866-2a92-4837-a9eb-6834d750e7b0)
