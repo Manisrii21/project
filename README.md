@@ -147,3 +147,6 @@ detect_handwriting(image_path)
 ### III)Perform object detection with label in an image:
 
 ![Screenshot 2025-05-28 132958](https://github.com/user-attachments/assets/75bb8866-2a92-4837-a9eb-6834d750e7b0)
+
+## Result:
+Thus, a python program using OpenCV for following image manipulations is done successfully
